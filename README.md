@@ -28,7 +28,7 @@ Latest Update
 ------
 + 1.0 (Apr 26, 2017)
 
-How to Run (in [SpringBootOAuth2AuthorizationServerTutorialApplication](https://github.com/warumono-for-develop/spring-boot-oauth2-resource-server-tutorial))
+How to Run (in [SpringBootOAuth2AuthorizationServerTutorial](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial))
 ------
 ### OAuth2 Resource Server
 + Clone [this Git repository](https://github.com/warumono-for-develop/spring-boot-oauth2-resource-server-tutorial)
@@ -39,9 +39,9 @@ $ ./gradle bootRun
 ```
 
 ### With OAuth2 Authorization Server
-+ Move [SpringBootOAuth2ResourceServerTutorial](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial)
++ Move [SpringBootOAuth2AuthorizationServerTutorial](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial)
 
-Test accounts (in [SpringBootOAuth2AuthorizationServerTutorialApplication](https://github.com/warumono-for-develop/spring-boot-oauth2-resource-server-tutorial))
+Test accounts (in [SpringBootOAuth2AuthorizationServerTutorial](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial))
 ------
 + Reference file [SpringBootOAuth2AuthorizationServerTutorialApplication.java](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial/blob/master/src/main/java/com/warumono/SpringBootOAuth2AuthorizationServerTutorialApplication.java)
 
@@ -97,7 +97,7 @@ public CommandLineRunner commandLineRunner(UserRepository userRepository, Client
 }
 ```
 
-Get a access token (in [SpringBootOAuth2AuthorizationServerTutorialApplication](https://github.com/warumono-for-develop/spring-boot-oauth2-resource-server-tutorial))
+Get a access token (in [SpringBootOAuth2AuthorizationServerTutorial](https://github.com/warumono-for-develop/spring-boot-oauth2-authorization-server-tutorial))
 ------
 #### Request command
 
